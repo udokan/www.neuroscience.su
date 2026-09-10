@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Neuroscience | Дмитрий Сухин",
+    "description": "",
+    "home_page_url": "https://www.neuroscience.su",
+    "feed_url": "https://www.neuroscience.su/feed.json",
+    "user_comment": "",
+    "icon": "https://www.neuroscience.su/media/website/logo.webp",
+    "author": {
+        "name": "Дмитрий Сухин"
+    },
+    "items": [
+    ]
+}

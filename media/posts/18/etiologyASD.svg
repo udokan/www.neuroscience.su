@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG etiologyASD.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.70717in" height="9.95251in"
+		viewBox="0 0 482.916 716.581" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st2 {fill:#808080;font-family:Tahoma;font-size:1.99999em}
+		.st3 {fill:#808080;font-family:Tahoma;font-size:1.33333em}
+		.st4 {font-size:1em}
+		.st5 {marker-end:url(#mrkr13-55);stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st6 {fill:#808080;fill-opacity:1;stroke:#808080;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st7 {marker-start:url(#mrkr13-91);stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-55" class="st6" v:arrowType="13" v:arrowSize="2" v:setback="6.36" refX="-6.36" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.12,-2.12) "/>
+		</marker>
+		<marker id="mrkr13-91" class="st6" v:arrowType="13" v:arrowSize="2" v:setback="6.2" refX="6.2" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(2.12) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Соединительная линия" v:index="0"/>
+		<g id="group44-1" transform="translate(40.3454,-1.125)" v:mID="44" v:groupContext="group">
+			<title>Лист.44</title>
+			<g id="shape6-2" v:mID="6" v:groupContext="shape" transform="translate(7.08661,-664.724)">
+				<title>Прямоугольник</title>
+				<desc>Этиология РАС</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="691.778" width="403.23" height="49.6063"/>
+				<rect x="0" y="666.974" width="403.228" height="49.6063" class="st1"/>
+				<text x="119.52" y="698.98" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Этиология РАС</text>			</g>
+			<g id="shape7-5" v:mID="7" v:groupContext="shape" transform="translate(7.08661,-498.817)">
+				<title>Прямоугольник.7</title>
+				<desc>Множество факторов при ведущем значении генетических и средовых</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="34.91" y="691.25" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Множество факторов при ведущем значении <tspan
+							x="108.09" dy="1.2em" class="st4">генетических и средовых</tspan></text>			</g>
+			<g id="shape11-9" v:mID="11" v:groupContext="shape" transform="translate(7.08661,-449.251)">
+				<title>Прямоугольник.11</title>
+				<desc>Высокая наследуемость</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="113.83" y="700.85" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Высокая наследуемость</text>			</g>
+			<g id="shape12-12" v:mID="12" v:groupContext="shape" transform="translate(7.08661,-399.685)">
+				<title>Прямоугольник.12</title>
+				<desc>Значительно чаще у родителей с генетическими нарушениями</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="85.16" y="691.25" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Значительно чаще у родителей<v:newlineChar/><tspan
+							x="87.68" dy="1.2em" class="st4">с генетическими нарушениями</tspan></text>			</g>
+			<g id="shape13-16" v:mID="13" v:groupContext="shape" transform="translate(7.08661,-548.382)">
+				<title>Прямоугольник.13</title>
+				<desc>Выявлено более 100 генов, ассоциированных с РАС</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="100.24" y="691.25" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Выявлено более 100 генов,<v:newlineChar/><tspan
+							x="113.72" dy="1.2em" class="st4">ассоциированных с РАС</tspan></text>			</g>
+			<g id="shape15-20" v:mID="15" v:groupContext="shape" transform="translate(137.835,-597.948)">
+				<title>Прямоугольник.15</title>
+				<desc>Генетические факторы</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="688.234" width="141.74" height="56.6929"/>
+				<rect x="0" y="659.888" width="141.732" height="56.6929" class="st1"/>
+				<text x="20.69" y="683.43" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Генетические<v:newlineChar/><tspan
+							x="38.56" dy="1.2em" class="st4">факторы</tspan></text>			</g>
+			<g id="shape16-24" v:mID="16" v:groupContext="shape" transform="translate(137.835,-334.488)">
+				<title>Прямоугольник.16</title>
+				<desc>Средовые факторы</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="688.234" width="141.74" height="56.6929"/>
+				<rect x="0" y="659.888" width="141.732" height="56.6929" class="st1"/>
+				<text x="34.67" y="683.43" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Средовые<v:newlineChar/><tspan
+							x="38.56" dy="1.2em" class="st4">факторы</tspan></text>			</g>
+			<g id="shape17-28" v:mID="17" v:groupContext="shape" transform="translate(7.08661,-289.134)">
+				<title>Прямоугольник.17</title>
+				<desc>Возраст родителей</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="698.156" width="403.23" height="36.8504"/>
+				<rect x="0" y="679.73" width="403.228" height="36.8504" class="st1"/>
+				<text x="131.5" y="702.96" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Возраст родителей</text>			</g>
+			<g id="shape18-31" v:mID="18" v:groupContext="shape" transform="translate(7.08661,-240.945)">
+				<title>Прямоугольник.18</title>
+				<desc>Осложнения при родах</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="115.86" y="700.85" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Осложнения при родах</text>			</g>
+			<g id="shape19-34" v:mID="19" v:groupContext="shape" transform="translate(7.08661,-192.756)">
+				<title>Прямоугольник.19</title>
+				<desc>Ожирение у матери</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="128.58" y="700.85" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Ожирение у матери</text>			</g>
+			<g id="shape20-37" v:mID="20" v:groupContext="shape" transform="translate(7.08661,-144.567)">
+				<title>Прямоугольник.20</title>
+				<desc>Короткий промежуток между беременностями</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="30.17" y="700.85" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Короткий промежуток между беременностями  </text>			</g>
+			<g id="shape21-40" v:mID="21" v:groupContext="shape" transform="translate(7.08661,-96.378)">
+				<title>Прямоугольник.21</title>
+				<desc>Прием матерью препаратов вальпроевой кислоты во время беремен...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="98.45" y="691.25" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Прием матерью препаратов<v:newlineChar/><tspan
+							x="31.45" dy="1.2em" class="st4">вальпроевой кислоты во время беременности</tspan></text>			</g>
+			<g id="shape22-44" v:mID="22" v:groupContext="shape" transform="translate(7.08661,-48.189)">
+				<title>Прямоугольник.22</title>
+				<desc>Гестационный диабет у матери</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="86.05" y="700.85" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Гестационный диабет у матери</text>			</g>
+			<g id="shape23-47" v:mID="23" v:groupContext="shape" transform="translate(7.08661,0)">
+				<title>Прямоугольник.23</title>
+				<desc>Недоношенность у плода</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.614" cy="696.05" width="403.23" height="41.0619"/>
+				<rect x="0" y="675.519" width="403.228" height="41.0619" class="st1"/>
+				<text x="108.19" y="700.85" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Недоношенность у плода</text>			</g>
+			<g id="shape24-50" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(137.835,-362.835)">
+				<title>Динамическая соединительная линия</title>
+				<path d="M0 716.58 L-158.18 716.58 L-158.18 771.86 L-145.06 771.86" class="st5"/>
+			</g>
+			<g id="shape25-56" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(137.835,-362.835)">
+				<title>Динамическая соединительная линия.25</title>
+				<path d="M0 716.58 L-158.18 716.58 L-158.18 1058.88 L-145.06 1058.88" class="st5"/>
+			</g>
+			<g id="shape26-61" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(137.835,-362.835)">
+				<title>Динамическая соединительная линия.26</title>
+				<path d="M0 716.58 L-158.18 716.58 L-158.18 1010.7 L-145.06 1010.7" class="st5"/>
+			</g>
+			<g id="shape29-66" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(137.835,-362.835)">
+				<title>Динамическая соединительная линия.29</title>
+				<path d="M0 716.58 L-158.18 716.58 L-158.18 817.94 L-145.06 817.94" class="st5"/>
+			</g>
+			<g id="shape30-71" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(137.835,-362.835)">
+				<title>Динамическая соединительная линия.30</title>
+				<path d="M0 716.58 L-158.18 716.58 L-158.18 866.13 L-145.06 866.13" class="st5"/>
+			</g>
+			<g id="shape32-76" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(137.835,-362.835)">
+				<title>Динамическая соединительная линия.32</title>
+				<path d="M0 716.58 L-158.18 716.58 L-158.18 914.32 L-145.06 914.32" class="st5"/>
+			</g>
+			<g id="shape38-81" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(410.315,-689.528)">
+				<title>Динамическая соединительная линия.38</title>
+				<path d="M0 716.58 L17.12 716.58 L17.12 1043.27 L-116.44 1043.27" class="st5"/>
+			</g>
+			<g id="shape39-86" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(279.567,-626.295)">
+				<title>Динамическая соединительная линия.39</title>
+				<path d="M13.95 716.58 L14.31 716.58 L147.92 716.58 L147.92 654.06" class="st7"/>
+			</g>
+			<g id="shape42-92" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-261.476)">
+				<title>Динамическая соединительная линия.42</title>
+				<path d="M-7.09 716.58 L-34.52 716.58 L-34.52 861.15 L-21.4 861.15" class="st5"/>
+			</g>
+		</g>
+	</g>
+</svg>

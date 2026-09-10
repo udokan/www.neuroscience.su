@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Клинические рекомендации.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.79897in" height="4.56917in"
+		viewBox="0 0 561.526 328.98" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st2 {fill:#808080;font-family:Tahoma;font-size:1.33333em}
+		.st3 {font-size:1em}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group14-1" transform="translate(1.125,-1.125)" v:mID="14" v:groupContext="group">
+			<title>Лист.14</title>
+			<g id="shape10-2" v:mID="10" v:groupContext="shape" transform="translate(186.094,-55.2756)">
+				<title>Треугольник</title>
+				<desc>ТРИАДА УИНГ</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="103.465" cy="260.004" width="206.93" height="137.953"/>
+				<path d="M206.93 328.98 L103.46 122.05 L0 328.98 L206.93 328.98 Z" class="st1"/>
+				<text x="73.96" y="255.2" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>ТРИАДА<v:lf/><tspan
+							x="84.04" dy="1.2em" class="st3">УИНГ</tspan></text>			</g>
+			<g id="shape11-6" v:mID="11" v:groupContext="shape">
+				<title>Прямоугольник</title>
+				<desc>Недостаток социальных взаимодействий</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="113.386" cy="310.555" width="226.78" height="36.8504"/>
+				<rect x="0" y="292.13" width="226.772" height="36.8504" class="st4"/>
+				<text x="25.01" y="305.76" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Недостаток социальных <tspan
+							x="53.55" dy="1.2em" class="st3">взаимодействий</tspan></text>			</g>
+			<g id="shape12-10" v:mID="12" v:groupContext="shape" transform="translate(332.504,0)">
+				<title>Прямоугольник.12</title>
+				<desc>Нарушенная взаимная коммуникация</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="113.386" cy="310.555" width="226.78" height="36.8504"/>
+				<rect x="0" y="292.13" width="226.772" height="36.8504" class="st4"/>
+				<text x="30.41" y="305.76" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Нарушенная взаимная <tspan
+							x="60.36" dy="1.2em" class="st3">коммуникация</tspan></text>			</g>
+			<g id="shape13-14" v:mID="13" v:groupContext="shape" transform="translate(176.173,-280.63)">
+				<title>Прямоугольник.13</title>
+				<desc>Ограниченность интересов и повторяющийся репертуар поведения</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="113.386" cy="310.555" width="226.78" height="36.8504"/>
+				<rect x="0" y="292.13" width="226.772" height="36.8504" class="st4"/>
+				<text x="6.11" y="296.15" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Ограниченность интересов и <tspan
+							x="13.66" dy="1.2em" class="st3">повторяющийся репертуар </tspan><tspan x="74.22" dy="1.2em"
+							class="st3">поведения</tspan></text>			</g>
+		</g>
+	</g>
+</svg>

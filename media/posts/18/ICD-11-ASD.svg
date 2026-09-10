@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG ICD-11-ASD.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.59886in" height="6.59954in"
+		viewBox="0 0 547.118 475.167" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;marker-end:url(#mrkr13-5);stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st2 {fill:#808080;fill-opacity:1;stroke:#808080;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st3 {fill:#808080;font-family:Tahoma;font-size:1.33333em}
+		.st4 {font-size:1em}
+		.st5 {marker-end:url(#mrkr13-5);stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-5" class="st2" v:arrowType="13" v:arrowSize="2" v:setback="6.36" refX="-6.36" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.12,-2.12) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Соединительная линия" v:index="0"/>
+		<g id="group35-1" transform="translate(35.9709,-15.0841)" v:mID="35" v:groupContext="group">
+			<title>Лист.35</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape" transform="translate(14.1732,-406.731)">
+				<title>Прямоугольник.18</title>
+				<desc>РАС в МКБ-11 — блок L1-6А0 «Нарушения нейропсихического разви...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="240.945" cy="456.033" width="481.89" height="38.2677"/>
+				<rect x="0" y="436.899" width="481.89" height="38.2677" class="st1"/>
+				<text x="133.67" y="451.23" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>РАС в МКБ-11 — блок <tspan
+							class="st4" v:langID="1033">L1</tspan><tspan class="st4" v:langID="1033">-</tspan><tspan class="st4"
+							v:langID="1033">6</tspan>А0 <v:lf/><tspan x="29.98" dy="1.2em" class="st4">«</tspan>Нарушения нейропсихического развития», группа 6А02</text>			</g>
+			<g id="shape3-11" v:mID="3" v:groupContext="shape" transform="translate(92.126,-311.811)">
+				<title>Прямоугольник.2</title>
+				<desc>Расстройство аутистического спектра без нарушения интеллектуа...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.969" cy="440.463" width="403.94" height="69.4083"/>
+				<rect x="0" y="405.759" width="403.937" height="69.4083" class="st1"/>
+				<text x="4.61" y="426.06" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Расстройство аутистического спектра без нарушения <tspan
+							x="5.46" dy="1.2em" class="st4">интеллектуального развития и с легким нарушением </tspan><tspan
+							x="69.9" dy="1.2em" class="st4">функциональной речи или без него</tspan></text>			</g>
+			<g id="shape4-17" v:mID="4" v:groupContext="shape" transform="translate(92.126,-233.858)">
+				<title>Прямоугольник.3</title>
+				<desc>Расстройство аутистического спектра с нарушением интеллектуал...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.969" cy="440.463" width="403.94" height="69.4083"/>
+				<rect x="0" y="405.759" width="403.937" height="69.4083" class="st1"/>
+				<text x="8.09" y="426.06" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Расстройство аутистического спектра с нарушением <tspan
+							x="5.46" dy="1.2em" class="st4">интеллектуального развития и с легким нарушением </tspan><tspan
+							x="69.9" dy="1.2em" class="st4">функциональной речи или без него</tspan></text>			</g>
+			<g id="shape5-23" v:mID="5" v:groupContext="shape" transform="translate(92.126,-155.906)">
+				<title>Прямоугольник.4</title>
+				<desc>Расстройство аутистического спектра без нарушения интеллектуа...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.969" cy="440.463" width="403.94" height="69.4083"/>
+				<rect x="0" y="405.759" width="403.937" height="69.4083" class="st1"/>
+				<text x="4.61" y="426.06" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Расстройство аутистического спектра без нарушения <tspan
+							x="33.53" dy="1.2em" class="st4">интеллектуального развития и с нарушением </tspan><tspan x="119.5"
+							dy="1.2em" class="st4">функциональной речи</tspan></text>			</g>
+			<g id="shape6-29" v:mID="6" v:groupContext="shape" transform="translate(92.126,-77.9528)">
+				<title>Прямоугольник.5</title>
+				<desc>Расстройство аутистического спектра с нарушением интеллектуал...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.969" cy="440.463" width="403.94" height="69.4083"/>
+				<rect x="0" y="405.759" width="403.937" height="69.4083" class="st1"/>
+				<text x="8.09" y="426.06" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Расстройство аутистического спектра с нарушением <tspan
+							x="33.53" dy="1.2em" class="st4">интеллектуального развития и с нарушением </tspan><tspan x="119.5"
+							dy="1.2em" class="st4">функциональной речи</tspan></text>			</g>
+			<g id="shape7-35" v:mID="7" v:groupContext="shape" transform="translate(92.126,0)">
+				<title>Прямоугольник.6</title>
+				<desc>Расстройство аутистического спектра с нарушением интеллектуал...</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="201.969" cy="440.463" width="403.94" height="69.4083"/>
+				<rect x="0" y="405.759" width="403.937" height="69.4083" class="st1"/>
+				<text x="8.09" y="426.06" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Расстройство аутистического спектра с нарушением <tspan
+							x="34.47" dy="1.2em" class="st4">интеллектуального развития и с отсутствием </tspan><tspan x="119.5"
+							dy="1.2em" class="st4">функциональной речи</tspan></text>			</g>
+			<g id="shape9-41" v:mID="9" v:groupContext="shape" transform="translate(-7.99361E-15,-311.811)">
+				<title>Прямоугольник.8</title>
+				<desc>6A02.0</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="440.463" width="70.87" height="69.4083"/>
+				<rect x="0" y="405.759" width="70.8661" height="69.4083" class="st1"/>
+				<text x="10.75" y="445.26" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>6A02.0</text>			</g>
+			<g id="shape10-45" v:mID="10" v:groupContext="shape" transform="translate(1.9984E-14,-233.858)">
+				<title>Прямоугольник.9</title>
+				<desc>6A02.1</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="440.463" width="70.87" height="69.4083"/>
+				<rect x="0" y="405.759" width="70.8661" height="69.4083" class="st1"/>
+				<text x="10.75" y="445.26" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>6A02.1</text>			</g>
+			<g id="shape11-49" v:mID="11" v:groupContext="shape" transform="translate(1.9984E-14,-155.906)">
+				<title>Прямоугольник.10</title>
+				<desc>6A02.2</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="440.463" width="70.87" height="69.4083"/>
+				<rect x="0" y="405.759" width="70.8661" height="69.4083" class="st1"/>
+				<text x="10.75" y="445.26" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>6A02.2</text>			</g>
+			<g id="shape12-53" v:mID="12" v:groupContext="shape" transform="translate(1.9984E-14,-77.9528)">
+				<title>Прямоугольник.11</title>
+				<desc>6A02.3</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="440.463" width="70.87" height="69.4083"/>
+				<rect x="0" y="405.759" width="70.8661" height="69.4083" class="st1"/>
+				<text x="10.75" y="445.26" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>6A02.3</text>			</g>
+			<g id="shape13-57" v:mID="13" v:groupContext="shape">
+				<title>Прямоугольник.12</title>
+				<desc>6A02.5</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="440.463" width="70.87" height="69.4083"/>
+				<rect x="0" y="405.759" width="70.8661" height="69.4083" class="st1"/>
+				<text x="10.75" y="445.26" class="st3" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>6A02.5</text>			</g>
+			<g id="shape15-61" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-425.865)">
+				<title>Динамическая соединительная линия.14</title>
+				<path d="M0 475.17 L-35.06 475.17 L-35.06 554.52 L-28.48 554.52" class="st5"/>
+			</g>
+			<g id="shape16-66" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-425.865)">
+				<title>Динамическая соединительная линия.15</title>
+				<path d="M0 475.17 L-35.06 475.17 L-35.06 632.47 L-28.48 632.47" class="st5"/>
+			</g>
+			<g id="shape17-71" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-425.865)">
+				<title>Динамическая соединительная линия.16</title>
+				<path d="M0 475.17 L-35.06 475.17 L-35.06 710.42 L-28.48 710.42" class="st5"/>
+			</g>
+			<g id="shape18-76" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-425.865)">
+				<title>Динамическая соединительная линия.17</title>
+				<path d="M0 475.17 L-35.06 475.17 L-35.06 788.38 L-28.48 788.38" class="st5"/>
+			</g>
+			<g id="shape19-81" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-425.865)">
+				<title>Динамическая соединительная линия.18</title>
+				<path d="M0 475.17 L-35.06 475.17 L-35.06 788.38 L-28.48 788.38" class="st5"/>
+			</g>
+			<g id="shape22-86" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(70.8661,-27.6175)">
+				<title>Динамическая соединительная линия.21</title>
+				<path d="M0 468.08 L6.95 468.08" class="st5"/>
+			</g>
+			<g id="shape23-91" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(70.8661,-105.57)">
+				<title>Динамическая соединительная линия.22</title>
+				<path d="M0 468.08 L6.95 468.08" class="st5"/>
+			</g>
+			<g id="shape24-96" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(70.8661,-183.523)">
+				<title>Динамическая соединительная линия.23</title>
+				<path d="M0 468.08 L6.95 468.08" class="st5"/>
+			</g>
+			<g id="shape25-101" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(70.8661,-275.649)">
+				<title>Динамическая соединительная линия.24</title>
+				<path d="M0 482.25 L6.95 482.25" class="st5"/>
+			</g>
+			<g id="shape26-106" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(70.8661,-339.429)">
+				<title>Динамическая соединительная линия.25</title>
+				<path d="M0 468.08 L6.95 468.08" class="st5"/>
+			</g>
+			<g id="shape27-111" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-425.865)">
+				<title>Динамическая соединительная линия</title>
+				<path d="M0 475.17 L-35.06 475.17 L-35.06 866.33 L-28.48 866.33" class="st5"/>
+			</g>
+		</g>
+	</g>
+</svg>

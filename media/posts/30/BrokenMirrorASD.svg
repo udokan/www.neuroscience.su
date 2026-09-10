@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG BrokenMirrorASD.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="7.38062in" height="4.63273in" viewBox="0 0 531.404 333.556" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st7">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;marker-end:url(#mrkr13-5);stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st2 {fill:#808080;fill-opacity:1;stroke:#808080;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st3 {fill:#808080;font-family:Tahoma;font-size:1.33333em}
+		.st4 {font-size:1em}
+		.st5 {marker-end:url(#mrkr13-5);stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st6 {stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-5" class="st2" refX="-6.36" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.12,-2.12) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>Страница-1</title>
+		<g id="group11-1" transform="translate(15.0841,-15.0841)">
+			<title>Лист.11</title>
+			<g id="shape2-2" transform="translate(170.114,-246.695)">
+				<title>Прямоугольник.18</title>
+				<desc>Теории аутизма</desc>
+				<rect x="0" y="276.863" width="166.181" height="56.6929" class="st1"/>
+				<text x="56.43" y="300.41" class="st3">Теории <tspan x="53.7" dy="1.2em" class="st4">аутизма</tspan></text>			</g>
+			<g id="shape3-8" transform="translate(0,-123.348)">
+				<title>Прямоугольник.28</title>
+				<desc>Концепция дисфункции зеркальных нейронов</desc>
+				<rect x="0" y="247.1" width="239.031" height="86.4567" class="st1"/>
+				<text x="31.95" y="285.53" class="st3">Концепция дисфункции <tspan x="39.06" dy="1.2em" class="st4">зеркальных нейронов</tspan></text>			</g>
+			<g id="shape4-13" transform="translate(262.205,-123.348)">
+				<title>Прямоугольник.30</title>
+				<desc>Концепция искаженного «эмоционального ландшафта»</desc>
+				<rect x="0" y="247.1" width="239.031" height="86.4567" class="st1"/>
+				<text x="29.3" y="285.53" class="st3">Концепция искаженного <tspan x="5.49" dy="1.2em" class="st4">«</tspan>эмоционального ландшафта»</text>			</g>
+			<g id="shape5-18" transform="translate(170.114,-275.042)">
+				<title>Динамическая соединительная линия</title>
+				<path d="M0 333.56 L-50.6 333.56 L-50.6 384.48" class="st5"/>
+			</g>
+			<g id="shape6-23" transform="translate(336.295,-275.042)">
+				<title>Динамическая соединительная линия.33</title>
+				<path d="M0 333.56 L45.43 333.56 L45.43 384.48" class="st5"/>
+			</g>
+			<g id="shape7-28">
+				<title>Прямоугольник.7</title>
+				<desc>Снижение активности зеркальных нейронов</desc>
+				<rect x="0" y="247.1" width="239.031" height="86.4567" class="st1"/>
+				<text x="38.52" y="285.53" class="st3">Снижение активности <tspan x="39.06" dy="1.2em" class="st4">зеркальных нейронов</tspan></text>			</g>
+			<g id="shape8-33" transform="translate(262.205,0)">
+				<title>Прямоугольник.8</title>
+				<desc>Нарушение связей между сенсорными областями мозга и миндалиной</desc>
+				<rect x="0" y="247.1" width="239.031" height="86.4567" class="st1"/>
+				<text x="24.75" y="275.93" class="st3">Нарушение связей между <tspan x="33.84" dy="1.2em" class="st4">сенсорными областями</tspan><tspan
+							x="44.29" dy="1.2em" class="st4">мозга и миндалиной</tspan></text>			</g>
+			<g id="shape9-39" transform="translate(374.634,-123.348)">
+				<title>Динамическая соединительная линия.9</title>
+				<path d="M7.09 333.56 L7.09 370.45" class="st6"/>
+			</g>
+			<g id="shape10-42" transform="translate(112.429,-123.348)">
+				<title>Динамическая соединительная линия.10</title>
+				<path d="M7.09 333.56 L7.09 370.45" class="st6"/>
+			</g>
+		</g>
+	</g>
+</svg>
