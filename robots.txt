@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://udokan.github.io/Publii/sitemap.xml
