@@ -1,0 +1,35 @@
+{
+  "name": "Neuroscience | Дмитрий Сухин",
+  "short_name": "Neuroscience | Дмитрий Сухин",
+  "start_url": "../../../",
+  "scope": "../../../",
+  "icons": [
+    {
+      "src": "web-app-manifest-192x192.png?v=mtybctxc",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "web-app-manifest-512x512.png?v=mtybctxc",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "web-app-manifest-192x192-maskable.png?v=mtybctxc",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "web-app-manifest-512x512-maskable.png?v=mtybctxc",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#70757d",
+  "display": "standalone"
+}
