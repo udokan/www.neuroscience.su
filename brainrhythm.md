@@ -6,7 +6,7 @@
 
 - URL: https://www.neuroscience.su/brainrhythm/
 - Published: 2024-08-06T14:46:44.963Z
-- Updated: 2026-09-12T15:30:49.455Z
+- Updated: 2026-09-12T19:36:09.608Z
 - Description: РАС как первичное расстройство мозговых колебаний («осциллопатия»): стереотипные действия помогают детям сосредоточиться и отвлечься от посторонних импульсов
 - Author: Дмитрий Сухин
 - Tags: Аутизм, Нейронаука, Статьи
@@ -23,4 +23,4 @@
 
 Исследования также показывают, что люди без аутизма тоже выполняют повторяющиеся движения, такие как постукивание ногой или верчение ручки, чтобы сконцентрироваться или снять стресс. Это предполагает, что такие движения могут играть важную роль в оптимизации когнитивных процессов и у людей с аутизмом.
 
-[Источник: McCarty, Meredith & Brumback, Audrey. (2021). Rethinking Stereotypies in Autism. Seminars in Pediatric Neurology. 38. 100897. 10.1016/j.spen.2021.100897.](https://www.researchgate.net/publication/351999746_Rethinking_Stereotypies_in_Autism)
+[Источник: McCarty, Meredith & Brumback, Audrey. (2021). Rethinking Stereotypies in Autism. Seminars in Pediatric Neurology. 38. 100897. 10.1016/j.spen.2021.100897.](https://www.researchgate.net/profile/Meredith-Mccarty/publication/351999746_Rethinking_Stereotypies_in_Autism/links/6282a36837d496476ab3cf76/Rethinking-Stereotypies-in-Autism.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)
