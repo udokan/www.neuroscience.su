@@ -31,5 +31,6 @@
   ],
   "theme_color": "#ffffff",
   "background_color": "#70757d",
-  "display": "standalone"
+  "display": "standalone",
+  "description": "Дмитрий Сухин о психике и мозге"
 }
