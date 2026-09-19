@@ -1,29 +1,29 @@
 {
-  "name": "Нейронаука",
-  "short_name": "Нейронаука",
+  "name": "Neuroscience.su",
+  "short_name": "Neuroscience",
   "start_url": "../../../",
   "scope": "../../../",
   "icons": [
     {
-      "src": "web-app-manifest-192x192.png?v=mtyey7kd",
+      "src": "web-app-manifest-192x192.png?v=mu8glksg",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "web-app-manifest-512x512.png?v=mtyey7kd",
+      "src": "web-app-manifest-512x512.png?v=mu8glksg",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "web-app-manifest-192x192-maskable.png?v=mtyey7kd",
+      "src": "web-app-manifest-192x192-maskable.png?v=mu8glksg",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "web-app-manifest-512x512-maskable.png?v=mtyey7kd",
+      "src": "web-app-manifest-512x512-maskable.png?v=mu8glksg",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
