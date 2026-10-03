@@ -5,25 +5,25 @@
   "scope": "../../../",
   "icons": [
     {
-      "src": "web-app-manifest-192x192.png?v=mulml02i",
+      "src": "web-app-manifest-192x192.png?v=musngfhr",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "web-app-manifest-512x512.png?v=mulml02i",
+      "src": "web-app-manifest-512x512.png?v=musngfhr",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "web-app-manifest-192x192-maskable.png?v=mulml02i",
+      "src": "web-app-manifest-192x192-maskable.png?v=musngfhr",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "web-app-manifest-512x512-maskable.png?v=mulml02i",
+      "src": "web-app-manifest-512x512-maskable.png?v=musngfhr",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
