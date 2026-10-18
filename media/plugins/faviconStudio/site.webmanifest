@@ -1,29 +1,29 @@
 {
   "name": "Нейронаука",
-  "short_name": "Нейро",
+  "short_name": "Нейронаука",
   "start_url": "../../../",
   "scope": "../../../",
   "icons": [
     {
-      "src": "web-app-manifest-192x192.png?v=musngfhr",
+      "src": "web-app-manifest-192x192.png?v=mtyey7kd",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "web-app-manifest-512x512.png?v=musngfhr",
+      "src": "web-app-manifest-512x512.png?v=mtyey7kd",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "web-app-manifest-192x192-maskable.png?v=musngfhr",
+      "src": "web-app-manifest-192x192-maskable.png?v=mtyey7kd",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "web-app-manifest-512x512-maskable.png?v=musngfhr",
+      "src": "web-app-manifest-512x512-maskable.png?v=mtyey7kd",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
