@@ -1,0 +1,1 @@
+window.publiiStaticSearchVersionCallback({"version":1,"checksum":"abc045489adc7178e54e2bb22b8944e1"});
