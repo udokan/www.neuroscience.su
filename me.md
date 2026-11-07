@@ -6,7 +6,7 @@
 
 - URL: https://www.neuroscience.su/me/
 - Published: 2024-08-18T06:39:07.009Z
-- Updated: 2026-11-07T17:17:24.131Z
+- Updated: 2026-11-07T17:34:20.457Z
 - Description: Дмитрий Сухин — нейропсихолог, победитель конкурса Росмолодежь. Специализируется на психофизиологической диагностике и коррекции с АПК «НС-Психотест»
 - Author: Дмитрий Сухин
 
@@ -84,6 +84,10 @@
 
 Поведенческая психология в образовательных организациях
 
+[![Диплом бакалавра экономики ФГБОУ ВО «Сочинский государственный университет»](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.-M.-Ekonomika.-Bakalavriat_1-2-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.-M.-Ekonomika.-Bakalavriat_1-2.jpg)
+
+Диплом бакалавра экономики
+
 [![ФГАОУ ВО «Балтийский федеральный университет имени Иммануила Канта». Удостоверение о повышении квалификации по программе «Биологические основы психопатологий»](https://www.neuroscience.su/media/posts/28/gallery/biopsy-lg-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/biopsy-lg.webp)
 
 Биологические основы психопатологий
@@ -107,9 +111,9 @@
 -   **Благодарственное письмо** от ГКОУ школа-интернат № 2 г. Сочи за проведение психофизиологического тестирования и выявление рисков девиантного поведения у учащихся.
 
 
-[![Мастер-класс для студентов Сочинского государственного университета](https://www.neuroscience.su/media/posts/28/gallery/SGU-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/SGU.webp)
+[![Мастер-класс для студентов ФГБОУ ВО «Сочинский государственный университет»](https://www.neuroscience.su/media/posts/28/gallery/SGU-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/SGU.webp)
 
-Мастер-класс для студентов Сочинского государственного университета
+Мастер-класс для студентов «Психологическое тестирование»
 
 [![Трансляция опыта ресурсным центром на семинаре. Доклад на тему «Психологическое сопровождение обучающихся с ОВЗ»](https://www.neuroscience.su/media/posts/28/gallery/RAS-1-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/RAS-1.webp)
 
@@ -121,7 +125,7 @@
 
 [![Трансляция опыта для студентов ФГБОУ ВО «Сочинский государственный университет»](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Translyaciya-opyta-v-SochiGU_1-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Translyaciya-opyta-v-SochiGU_1.jpg)
 
-Трансляция опыта для студентов ФГБОУ ВО «Сочинский государственный университет»
+Участие в проекте «Приглашенный профессор», лекция на тему: «Архитектура современной инклюзии: АДК и ясный язык»
 
 [![ГКОУ школа-интернат № 2 г. Сочи. Благодарственное письмо](https://www.neuroscience.su/media/posts/28/gallery/letter-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/letter.webp)
 
@@ -133,7 +137,11 @@
 
 [![Конференция АНО ДПО ИРАВ по ранней помощи «1000 первых дней»](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-1000-pervyh-dney-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-1000-pervyh-dney.png)
 
-Конференция АНО ДПО ИРАВ по ранней помощи «1000 первых дней»
+Конференция «1000 первых дней»
+
+[![Сертификат участника краевой межведомственной научно-практической конференции «Комплексная реабилитация и абилитация инвалидов и детей-инвалидов. Новые подходы и векторы развития»](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Sertifikat-uchastnika.-Adlerskiy-RC_1-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Sertifikat-uchastnika.-Adlerskiy-RC_1.jpg)
+
+Сертификат участника краевой межведомственной научно-практической конференции «Комплексная реабилитация и абилитация инвалидов и детей-инвалидов. Новые подходы и векторы развития»
 
 #### Контакты
 
