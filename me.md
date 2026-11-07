@@ -6,7 +6,7 @@
 
 - URL: https://www.neuroscience.su/me/
 - Published: 2024-08-18T06:39:07.009Z
-- Updated: 2026-11-07T17:15:21.161Z
+- Updated: 2026-11-07T17:17:24.131Z
 - Description: Дмитрий Сухин — нейропсихолог, победитель конкурса Росмолодежь. Специализируется на психофизиологической диагностике и коррекции с АПК «НС-Психотест»
 - Author: Дмитрий Сухин
 
@@ -119,6 +119,10 @@
 
 Доклад на тему «Организация образовательной среды с учетом особенностей обучающихся с ОВЗ»
 
+[![Трансляция опыта для студентов ФГБОУ ВО «Сочинский государственный университет»](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Translyaciya-opyta-v-SochiGU_1-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Translyaciya-opyta-v-SochiGU_1.jpg)
+
+Трансляция опыта для студентов ФГБОУ ВО «Сочинский государственный университет»
+
 [![ГКОУ школа-интернат № 2 г. Сочи. Благодарственное письмо](https://www.neuroscience.su/media/posts/28/gallery/letter-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/letter.webp)
 
 ГКОУ школа-интернат № 2 г. Сочи. Благодарственное письмо
@@ -127,14 +131,10 @@
 
 Благодарственное письмо ФГБОУ ВО «Сочинский государственный университет»
 
-[![Трансляция опыта для студентов ФГБОУ ВО «Сочинский государственный университет»](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Translyaciya-opyta-v-SochiGU_1-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-Translyaciya-opyta-v-SochiGU_1.jpg)
-
-Трансляция опыта для студентов ФГБОУ ВО «Сочинский государственный университет»
-
 [![Конференция АНО ДПО ИРАВ по ранней помощи «1000 первых дней»](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-1000-pervyh-dney-thumbnail.webp)](https://www.neuroscience.su/media/posts/28/gallery/Suhin-D.M.-1000-pervyh-dney.png)
 
 Конференция АНО ДПО ИРАВ по ранней помощи «1000 первых дней»
 
 #### Контакты
 
-Активно сотрудничаю с образовательными учреждениями и коллегами. Читайте мои заметки о нейропсихологии и реабилитации:
+Активно сотрудничаю с образовательными учреждениями и коллегами.
