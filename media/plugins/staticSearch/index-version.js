@@ -1,1 +1,1 @@
-window.publiiStaticSearchVersionCallback({"version":1,"checksum":"abc045489adc7178e54e2bb22b8944e1"});
+window.publiiStaticSearchVersionCallback({"version":1,"checksum":"fcf30ba29a2b0fa3b1e861752508d936"});
